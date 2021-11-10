@@ -1,5 +1,9 @@
-# GT- ISYE-6501
+# Georgia Tech OMSA
 
-Introduction to Analytics:
+# Fall 2021 
+- ISYE 6501 - Introduction to Analytics
+- MGT 8803 - Business Fundamentals for Analytics
 
-These are files I have submitted for homework assignments when I took the course in the Fall 2021 semester.
+# Spring 2022
+- CSE 6040 - Computing for Data Analytics
+- MGT 6203 - Data Analytics in Business
