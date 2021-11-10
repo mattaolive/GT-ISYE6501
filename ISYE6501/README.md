@@ -7,6 +7,4 @@ classification, clustering, change detection, time series modeling, regression m
 experiments, probability distributions, probability-based models and simulation, PCA, and optimization.
 Cross-cutting topics like data preparation, model validation, and variable selection are also covered.
 
-Shared in this folder are some of my homework submissions:
-
-Week 10 - Imputation
+Shared in this folder are some of my homework submissions.
