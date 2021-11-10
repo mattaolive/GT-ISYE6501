@@ -10,4 +10,4 @@ The models were created using the following imputation methods:
 5) Original Data Set (no changeS)
 6) Original Data Set with an added binary variable to indicate missing data
 
-I created Support Vector Models using the different data sets with an 80% training and 20% testing split.
+I created Support Vector Models using the different data sets with an 80% training and 20% testing split and compared the confusion matrices of the final results to compare accuracy and quality of the models. 
