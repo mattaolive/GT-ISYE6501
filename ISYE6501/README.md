@@ -8,3 +8,6 @@ experiments, probability distributions, probability-based models and simulation,
 Cross-cutting topics like data preparation, model validation, and variable selection are also covered.
 
 Shared in this folder are some of my homework submissions.
+
+1) [Diet Homework](https://github.com/mattaolive/GeorgiaTechOMSA/tree/main/ISYE6501/Diet%20Homework)
+2) [Missing Data Homework](https://github.com/mattaolive/GeorgiaTechOMSA/tree/main/ISYE6501/Missing%20Data%20Homework)
